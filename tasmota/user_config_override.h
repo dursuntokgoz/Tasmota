@@ -15,8 +15,8 @@
 #define DISPLAY_CS             GPIO5            // CS pini
 #define DISPLAY_RST            GPIO17           // Reset pini
 #define DISPLAY_DC             GPIO16           // Data/Command pini
-#define DISPLAY_SCLK GPIO23 // SPI Clock pini
-#define DISPLAY_MOSI GPIO16 // SPI Data pini
+#define DISPLAY_SCLK           GPIO18          // SPI Clock pini
+#define DISPLAY_MOSI           GPIO23          // SPI Data pini
 
 // Röle ve Sensör Ayarları
 #define RELAY_PIN              GPIO26           // Röle kontrol pini
